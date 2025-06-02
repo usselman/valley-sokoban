@@ -4,4 +4,9 @@
 2025-06-02 02:37:18 /Users/shirishsarkar/_CODE/valley-sokoban/game.lua
  iii.........r_rrrrrrrrrrrrrrrrrrrr__rrrrrrrrr_________ri..rr_____r______rrrrr__rrrrrrrrrr___
  rrrrr_________rrrr___rrrr__rrr__rrrrrr____rr_rrrrrr________r_rrrrrrrrrrrrrrrrrrr
+ rrrrrr_________r_________r______rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+ rrrrrrrrrrrrrr_________rrrrrrrrrrrrrrrrrrrrrri.........i.........irrrrr___irrrrr
+ rrrrrrrrrr_________rrrrrrrr____i....ii.........rrrrrrrrrrrrrrrrcgggggggggggg.
+2025-06-02 05:32:17 /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8
+ ggg.....ri.........rgg.........gii.....ri.........rg..rrrrrg.....rggggggrigrgggg
  

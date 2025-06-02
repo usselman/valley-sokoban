@@ -59,3 +59,25 @@ t current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_f
 [368940] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_cart_lid: 
 [398743] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_cart_lid: 
 [446508] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_cart_lid: 
+[741736] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_cart_lid: 
+[862595] saving gif to: /Users/shirishsarkar/Desktop/game_0.gif
+[989928] saving gif to: /Users/shirishsarkar/Desktop/game_0.gif
+[10050066] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_cart_lid: 
+[10062003] saving gif to: /Users/shirishsarkar/Desktop/game_0.gif
+[10079809] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_cart_lid: 
+[10117713] saving gif to: /Users/shirishsarkar/Desktop/game_0.gif
+[10317524] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_cart_lid: 
+[10331543] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_cart_lid: 
+[10412519] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_cart_lid: 
+[10427989] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_cart_lid: 
+[10526236] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8 running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8 running_cart_lid: 
+[10582278] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8 running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8 running_cart_lid: 
+[10622057] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8 running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8 running_cart_lid: 
+[10643328] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8 running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8 running_cart_lid: 
+[10675741] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8 running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8 running_cart_lid: 
+[10689161] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8 running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8 running_cart_lid: 
+[10721597] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8 running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8 running_cart_lid: 
+[10743120] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8 running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8 running_cart_lid: 
+[10750811] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8 running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8 running_cart_lid: 
+[10830611] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8 running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8 running_cart_lid: 
+[10849446] saving gif to: /Users/shirishsarkar/Desktop/game lua_0.gif
