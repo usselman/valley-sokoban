@@ -1,0 +1,61 @@
+[000000] codo_init
+[000000]   platform: Max OS X
+[000000]   codo_system_init
+[000643]   Compiled against SDL version: 2.0.12
+[000643]   Linked against SDL version:   2.0.12
+[000643]   Current video driver: cocoa
+[000643]   codo_reset_timer
+[000643]   codo_gui_init
+[000643]   codo_keys_init
+[000643]   codo_text_init
+[000643]   codo_video_init
+[000643]   codo_mouse_init
+[000643]   codo_joystick_init
+[000643]   Reading controller mappings: /Users/shirishsarkar/_CODE/valley-sokoban/sdl_controllers.txt
+[000643]   searching for joysticks
+[000643]     found 0 joysticks
+[000643]   ok
+[000643] ok
+[000656] codo_load_pod: /Applications/PICO-8.app/Contents/MacOS/pico8.dat ok 
+[000659] codo_set_screen 128 128 8 100
+[000659]  window size: 640 540
+[000731]   setting filter to nearest (screen_mode 0  back page width: 128)
+  renderer metal:
+   flags: 0x0000000E ( |  | )
+   texture formats (6): ARGB8888, ABGR8888, YV12, IYUV, 0x3231564e, 0x3132564e
+   max texture size: 16384x16384
+[000737]  desktop size: 3440 1440
+[000737] ok
+[000747] codo_sound_init mix_buffer_size: 1024
+[000747] codo_sound_init
+[000747] SDL_INIT_AUDIO ok
+[000828] SDL_OpenAudio ok
+[000828]  freq:22050
+ channels:1
+[000828] Built-in audio drivers: 0 coreaudio 1 disk 2 dummy
+[000828] Current audio driver: coreaudio
+[000828] splore_init
+[000828] could not load favourites file: /Users/shirishsarkar/_CODE/valle[147526] window closed (14)
+[147527] codo_exit
+[147527]   cmusic_stop
+[147527]   codo_main_exit
+[147529]   codo_config_save
+[147530]   codo_sound_exit
+[147530]   codo_video_exit
+[147547]   codo_joystick_exit
+[147547]   codo_system_exit
+[147548]   codo_items_created: 1289
+[147548] ok
+t current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_cart_lid: 
+[054332] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_cart_lid: 
+[153128] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_cart_lid: 
+[166755] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_cart_lid: 
+[209370] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_cart_lid: 
+[250926] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_cart_lid: 
+[267980] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_cart_lid: 
+[314302] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_cart_lid: 
+[335562] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_cart_lid: 
+[351951] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_cart_lid: 
+[368940] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_cart_lid: 
+[398743] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_cart_lid: 
+[446508] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_cart_lid: 
