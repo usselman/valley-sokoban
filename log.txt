@@ -81,3 +81,13 @@ t current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua running_f
 [10750811] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8 running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8 running_cart_lid: 
 [10830611] run_cart current_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8 running_filename: /Users/shirishsarkar/_CODE/valley-sokoban/game.lua.p8 running_cart_lid: 
 [10849446] saving gif to: /Users/shirishsarkar/Desktop/game lua_0.gif
+[112994741] codo_exit
+[112994742]   cmusic_stop
+[112994742]   codo_main_exit
+[112994745]   codo_config_save
+[112994746]   codo_sound_exit
+[112994746]   codo_video_exit
+[112994841]   codo_joystick_exit
+[112994841]   codo_system_exit
+[112994841]   codo_items_created: 1312
+[112994841] ok
